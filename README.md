@@ -1,73 +1,44 @@
-<div align="center">
+# Nandakrishnan P U
 
-# NANDAKRISHNAN
+**Full Stack Developer and Technical Lead at Bluebird Medias**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=FF5E00&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;Engineering+Zero-Friction+UIs;Forging+Autonomous+Digital+Ecosystems;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript)](https://git.io/typing-svg)
+I build and launch web applications, from customer-facing workflows to backend APIs, relational data models and integrations. At Bluebird Medias, I choose application architectures and technology stacks, coordinate development work, review code and provide implementation support.
 
-*"I don't just write code; I forge autonomous digital ecosystems. Raw logic refined into zero-friction, high-fidelity architecture."*
+My recent work spans hospitality, service booking, B2B rentals, e-commerce, publishing and business operations.
 
-<br>
+## Featured work
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF5E00&borderColor=FF5E00)](YOUR_PORTFOLIO_LINK_HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF5E00&borderColor=FF5E00)](YOUR_LINKEDIN_LINK_HERE)
+### Sugar Dunes
+A live resort booking and property management platform that I independently developed and launched. It brings together guest reservations, pricing, shared room inventory, payments and operational workflows such as guest folios, POS and housekeeping.
 
-</div>
+**Engineering focus:** transactional checkout, idempotency-key handling, inventory allocation and staff permissions.
 
-<br>
+### Kappaa
+A live service-booking platform whose development I led, spanning customer requests, staff and worker workflows, payments, invoicing and operational records.
 
-### // THE TECH STACK
+**Engineering focus:** booking-draft conversion, database transactions, repeated-submission handling and payment/invoice workflows.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF5E00" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF5E00" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF5E00" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FF5E00" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FF5E00" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF5E00" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF5E00" />
-</div>
+## More products
 
-<br>
+| Product | What I built |
+| --- | --- |
+| **FleetMatrix** | A B2B car-rental platform for Oman, with vehicle search, company-managed listings and a Kerala release planned. |
+| **Private Perfume** | A live e-commerce application for a perfume client in Oman, including checkout and payment integration. |
+| **Wordcrush** | A live blogging platform with rich-text publishing, approval workflows and social features. |
+| **Billing Slip** | Billing and invoice software with PDF generation, company-scoped access and invoice sharing. |
+| **Matrimony** | Profile browsing, filters, shortlists, inquiry tracking and administrative workflows. |
+| **Revusmart** | Company-specific review collection, dashboards, QR-code pages and administration. |
+| **Advenxa** | A React client website connected to Sanity CMS for articles, testimonials, team profiles and case studies. |
 
-### // SYSTEM TELEMETRY
+## Technologies I work with
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nandakrishnan75&show_icons=true&theme=transparent&title_color=FF5E00&text_color=a0a0a0&icon_color=FF9900&bg_color=000000&hide_border=true&ring_color=FF5E00" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakrishnan75&layout=compact&theme=transparent&title_color=FF5E00&text_color=a0a0a0&bg_color=000000&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend and data:** Node.js, Express, REST APIs, PostgreSQL, Prisma, authentication and authorization
+- **Integrations:** payment gateways, Supabase, Sanity CMS
+- **Development tools:** Git, Docker, Playwright and Vitest
 
-<br>
+Many client repositories are private. The descriptions above summarize the products and engineering work without requiring access to their source.
 
-### // COMMITS REVOURED
-*An automated chronological timeline of recent deployments and commits.*
+## Connect
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nandakrishnan75/Nandakrishnan75/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nandakrishnan75/Nandakrishnan75/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nandakrishnan75/Nandakrishnan75/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-### // OFF-GRID
-<details>
-  <summary><b>System Diagnostics & Hardware</b> (Click to expand)</summary>
-  <br>
-  <ul>
-    <li><b>Operating Logic:</b> When I'm not building full-stack platforms, I'm likely optimizing high-throughput factory layouts or crunching production ratios.</li>
-    <li><b>Momentum:</b> 7 to 10km runs daily. Physical endurance translates directly to architectural endurance.</li>
-    <li><b>Hardware:</b> Powered by RTX architecture for uncompromising visual fidelity and rendering.</li>
-  </ul>
-</details>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5E00&height=100&section=footer" width="100%"/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/nandakrishnan-p-u-8b2402363)
